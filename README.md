@@ -304,4 +304,4 @@ Pull requests são bem-vindos. Rode `npm test` antes de enviar e nunca inclua to
 
 ## Licença
 
-MIT. Veja o arquivo [LICENSE](LICENSE) e troque `SEU NOME` pelo seu nome.
+MIT. Veja o arquivo [LICENSE](LICENSE) e troque `SpiritualMist25` pelo seu nome.
